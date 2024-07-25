@@ -1,2 +1,2 @@
 const a = 123;
-const check = 2;
+const check = 5;
